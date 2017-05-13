@@ -1,0 +1,19 @@
+{
+  "name": "neopixel-strip-js",
+  "version": "1.0.0",
+  "description": "Using node-pixel module and Johnny-Five to run sequence of LED animations on the strip or ring format NeoPixels with Arduino.",
+  "main": "server.js",
+  "dependencies": {
+    "node-pixel": "",
+    "johnny-five": ""
+  },
+  "devDependencies": {
+    "node-pixel": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Cylinder Studio",
+  "license": "ISC"
+}
